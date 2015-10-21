@@ -1,4 +1,4 @@
-Site Name,Latitude,Longitude,HWA,EHS,SSM,Total,HWA relative,EHS relative,SSM relative
+Site,Latitude,Longitude,HWA,EHS,SSM,Total,HWA relative,EHS relative,SSM relative
 MA Winchendon 3,42.68198,-72.1337667,0,0.02,0.56,0.58,0,0.034482759,0.965517241
 MA Northfield 12,42.64445,-72.34185,0,0.08,0.18,0.26,0,0.307692308,0.692307692
 MA Williamsburg 4,42.47807,-72.5005667,1.36,2.84,0.72,4.92,0.276422764,0.577235772,0.146341463
